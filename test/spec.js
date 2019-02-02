@@ -1,4 +1,4 @@
-var calcPage = require('..git/pages/calcPage.js');
+var calcPage = require('../pages/calcPage.js');
 
 describe('Protactor js tests for calculator angularjs app', function() {
    var page;
